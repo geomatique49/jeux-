@@ -30,22 +30,26 @@ print(a)
 
 def comps(a,z):
     if a==1 and z==1 :
-        reslt="egalité"
+        reslt="egalitÃ©"
     if a==2 and z==2 :
-        reslt="egalité"
+        reslt="egalitÃ©"
     if a==3 and z==3 :
-        reslt="egalité"
+        reslt="egalitÃ©"
     if a==1 and z==2 :
-        reslt="vous avez gagné"
+        reslt="vous avez gagnÃ©"
     if a==1 and z==3:
-        reslt="l'ordinateur a gagné"
+        reslt="l'ordinateur a gagnÃ©"
     if a==2 and z==1:
-        reslt="l'ordinateur a gagné"
+        reslt="l'ordinateur a gagnÃ©"
     if a==2 and z==3:
-        reslt="vous avez gagné"
+        reslt="vous avez gagnÃ©"
     if a==3 and z==1:
-        reslt="vous avez gagné"
+        reslt="vous avez gagnÃ©"
     if a==3 and z==2:
-        reslt="l'ordinateur a gagnÃé"
+        reslt="l'ordinateur a gagnÃƒÃ©"
     return reslt
 print(comps(a,z))
+" amine"
+"""
+
+""""
